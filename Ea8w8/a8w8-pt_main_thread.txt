@@ -1,0 +1,352 @@
+No processes found with name: pt_main_thread
+No processes found with name: pt_main_thread
+No processes found with name: pt_main_thread
+No processes found with name: pt_main_thread
+No processes found with name: pt_main_thread
+No processes found with name: pt_main_thread
+No processes found with name: pt_main_thread
+No processes found with name: pt_main_thread
+No processes found with name: pt_main_thread
+No processes found with name: pt_main_thread
+No processes found with name: pt_main_thread
+No processes found with name: pt_main_thread
+No processes found with name: pt_main_thread
+No processes found with name: pt_main_thread
+No processes found with name: pt_main_thread
+No processes found with name: pt_main_thread
+No processes found with name: pt_main_thread
+No processes found with name: pt_main_thread
+No processes found with name: pt_main_thread
+No processes found with name: pt_main_thread
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 79.7%, Memory: 213.40 MB (2.7006424969437273%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 109.4%, Memory: 318.16 MB (4.026370206175425%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.4%, Memory: 318.16 MB (4.026370206175425%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.6%, Memory: 329.67 MB (4.172003505876991%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 109.7%, Memory: 329.67 MB (4.172003505876991%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 109.8%, Memory: 332.74 MB (4.210908260413696%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.8%, Memory: 332.74 MB (4.210908260413696%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.6%, Memory: 334.03 MB (4.2272215628242575%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.7%, Memory: 334.03 MB (4.2272215628242575%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.3%, Memory: 335.58 MB (4.246797525716932%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.7%, Memory: 335.58 MB (4.246797525716932%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.4%, Memory: 335.58 MB (4.246797525716932%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.5%, Memory: 335.58 MB (4.246797525716932%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.8%, Memory: 335.58 MB (4.246797525716932%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.5%, Memory: 335.58 MB (4.246797525716932%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.4%, Memory: 335.58 MB (4.246797525716932%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.3%, Memory: 335.58 MB (4.246797525716932%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.7%, Memory: 335.58 MB (4.246797525716932%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.6%, Memory: 335.58 MB (4.246797525716932%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.2%, Memory: 335.58 MB (4.246797525716932%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.7%, Memory: 335.58 MB (4.246797525716932%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 89.5%, Memory: 336.35 MB (4.25658550716327%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.2%, Memory: 336.35 MB (4.25658550716327%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.7%, Memory: 336.35 MB (4.25658550716327%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.3%, Memory: 336.35 MB (4.25658550716327%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 109.4%, Memory: 337.12 MB (4.266373488609608%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.3%, Memory: 337.12 MB (4.266373488609608%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.5%, Memory: 337.12 MB (4.266373488609608%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.5%, Memory: 337.12 MB (4.266373488609608%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.8%, Memory: 337.12 MB (4.266373488609608%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.6%, Memory: 337.12 MB (4.266373488609608%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.3%, Memory: 337.64 MB (4.2728988095738325%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.7%, Memory: 337.64 MB (4.2728988095738325%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.4%, Memory: 338.16 MB (4.279424130538057%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.4%, Memory: 338.16 MB (4.279424130538057%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.8%, Memory: 338.67 MB (4.285949451502282%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.5%, Memory: 338.67 MB (4.285949451502282%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.7%, Memory: 339.45 MB (4.295737432948619%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.4%, Memory: 339.45 MB (4.295737432948619%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.6%, Memory: 339.70 MB (4.299000093430732%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.8%, Memory: 339.70 MB (4.299000093430732%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.4%, Memory: 339.70 MB (4.299000093430732%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.5%, Memory: 339.70 MB (4.299000093430732%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 109.3%, Memory: 339.70 MB (4.299000093430732%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.7%, Memory: 339.70 MB (4.299000093430732%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.4%, Memory: 340.22 MB (4.305525414394957%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.7%, Memory: 340.22 MB (4.305525414394957%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.7%, Memory: 340.22 MB (4.305525414394957%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.0%, Memory: 340.22 MB (4.305525414394957%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.4%, Memory: 340.99 MB (4.315313395841295%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 109.2%, Memory: 340.99 MB (4.315313395841295%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.6%, Memory: 341.25 MB (4.318576056323407%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.7%, Memory: 341.25 MB (4.318576056323407%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.5%, Memory: 341.77 MB (4.325101377287631%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.4%, Memory: 341.77 MB (4.325101377287631%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.4%, Memory: 341.77 MB (4.325101377287631%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 109.7%, Memory: 341.77 MB (4.325101377287631%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.6%, Memory: 341.77 MB (4.325101377287631%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.6%, Memory: 341.77 MB (4.325101377287631%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 96.9%, Memory: 341.77 MB (4.325101377287631%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 89.3%, Memory: 341.77 MB (4.325101377287631%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.3%, Memory: 342.02 MB (4.328364037769744%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.7%, Memory: 342.02 MB (4.328364037769744%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.0%, Memory: 342.02 MB (4.328364037769744%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.6%, Memory: 342.02 MB (4.328364037769744%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.5%, Memory: 342.54 MB (4.334889358733969%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 109.4%, Memory: 342.54 MB (4.334889358733969%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.7%, Memory: 342.54 MB (4.334889358733969%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.5%, Memory: 342.54 MB (4.334889358733969%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.4%, Memory: 342.80 MB (4.338152019216081%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.4%, Memory: 342.80 MB (4.338152019216081%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.4%, Memory: 342.80 MB (4.338152019216081%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.6%, Memory: 342.80 MB (4.338152019216081%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.5%, Memory: 343.31 MB (4.344677340180306%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.6%, Memory: 343.31 MB (4.344677340180306%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 89.2%, Memory: 343.31 MB (4.344677340180306%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.6%, Memory: 343.31 MB (4.344677340180306%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.7%, Memory: 343.31 MB (4.344677340180306%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.4%, Memory: 343.31 MB (4.344677340180306%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.4%, Memory: 343.31 MB (4.344677340180306%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.7%, Memory: 343.31 MB (4.344677340180306%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.7%, Memory: 343.57 MB (4.347940000662419%)
+No child processes.
+----------------------------------------
+Parent PID: 24625, Name: pt_main_thread
+PID: 24625, Name: pt_main_thread, CPU: 99.8%, Memory: 343.57 MB (4.347940000662419%)
+No child processes.
+----------------------------------------

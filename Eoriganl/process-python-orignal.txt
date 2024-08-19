@@ -1,0 +1,141 @@
+o processes found with name: pt_main_thread
+No processes found with name: pt_main_thread
+No processes found with name: pt_main_thread
+No processes found with name: pt_main_thread
+No processes found with name: pt_main_thread
+Parent PID: 18717, Name: pt_main_thread
+PID: 18717, Name: pt_main_thread, CPU: 89.4%, Memory: 170.50 MB (2.157706132170376%)
+No child processes.
+----------------------------------------
+Parent PID: 18717, Name: pt_main_thread
+PID: 18717, Name: pt_main_thread, CPU: 139.3%, Memory: 300.79 MB (3.806486663380937%)
+No child processes.
+----------------------------------------
+Parent PID: 18717, Name: pt_main_thread
+PID: 18717, Name: pt_main_thread, CPU: 268.8%, Memory: 401.31 MB (5.0786276459064235%)
+No child processes.
+----------------------------------------
+Parent PID: 18717, Name: pt_main_thread
+PID: 18717, Name: pt_main_thread, CPU: 328.3%, Memory: 405.95 MB (5.137355534584448%)
+No child processes.
+----------------------------------------
+Parent PID: 18717, Name: pt_main_thread
+PID: 18717, Name: pt_main_thread, CPU: 299.1%, Memory: 408.27 MB (5.1667194789234605%)
+No child processes.
+----------------------------------------
+Parent PID: 18717, Name: pt_main_thread
+PID: 18717, Name: pt_main_thread, CPU: 358.2%, Memory: 412.91 MB (5.225447367601485%)
+No child processes.
+----------------------------------------
+Parent PID: 18717, Name: pt_main_thread
+PID: 18717, Name: pt_main_thread, CPU: 359.0%, Memory: 417.04 MB (5.277649935315284%)
+No child processes.
+----------------------------------------
+Parent PID: 18717, Name: pt_main_thread
+PID: 18717, Name: pt_main_thread, CPU: 318.2%, Memory: 418.32 MB (5.293963237725847%)
+No child processes.
+----------------------------------------
+Parent PID: 18717, Name: pt_main_thread
+PID: 18717, Name: pt_main_thread, CPU: 349.2%, Memory: 420.90 MB (5.326589842546971%)
+No child processes.
+----------------------------------------
+Parent PID: 18717, Name: pt_main_thread
+PID: 18717, Name: pt_main_thread, CPU: 339.2%, Memory: 423.74 MB (5.362479107850208%)
+No child processes.
+----------------------------------------
+Parent PID: 18717, Name: pt_main_thread
+PID: 18717, Name: pt_main_thread, CPU: 109.1%, Memory: 428.12 MB (5.41794433604612%)
+No child processes.
+----------------------------------------
+Parent PID: 18717, Name: pt_main_thread
+PID: 18717, Name: pt_main_thread, CPU: 328.3%, Memory: 428.12 MB (5.41794433604612%)
+No child processes.
+----------------------------------------
+Parent PID: 18717, Name: pt_main_thread
+PID: 18717, Name: pt_main_thread, CPU: 349.3%, Memory: 431.73 MB (5.463621582795695%)
+No child processes.
+----------------------------------------
+Parent PID: 18717, Name: pt_main_thread
+PID: 18717, Name: pt_main_thread, CPU: 348.5%, Memory: 441.27 MB (5.584340020633856%)
+No child processes.
+----------------------------------------
+Parent PID: 18717, Name: pt_main_thread
+PID: 18717, Name: pt_main_thread, CPU: 318.7%, Memory: 441.27 MB (5.584340020633856%)
+No child processes.
+----------------------------------------
+Parent PID: 18717, Name: pt_main_thread
+PID: 18717, Name: pt_main_thread, CPU: 209.5%, Memory: 441.27 MB (5.584340020633856%)
+No child processes.
+----------------------------------------
+Parent PID: 18717, Name: pt_main_thread
+PID: 18717, Name: pt_main_thread, CPU: 348.4%, Memory: 444.88 MB (5.630017267383431%)
+No child processes.
+----------------------------------------
+Parent PID: 18717, Name: pt_main_thread
+PID: 18717, Name: pt_main_thread, CPU: 329.3%, Memory: 446.68 MB (5.652855890758217%)
+No child processes.
+----------------------------------------
+Parent PID: 18717, Name: pt_main_thread
+PID: 18717, Name: pt_main_thread, CPU: 358.8%, Memory: 456.48 MB (5.776836989078491%)
+No child processes.
+----------------------------------------
+Parent PID: 18717, Name: pt_main_thread
+PID: 18717, Name: pt_main_thread, CPU: 329.5%, Memory: 456.48 MB (5.776836989078491%)
+No child processes.
+----------------------------------------
+Parent PID: 18717, Name: pt_main_thread
+PID: 18717, Name: pt_main_thread, CPU: 329.2%, Memory: 456.48 MB (5.776836989078491%)
+No child processes.
+----------------------------------------
+Parent PID: 18717, Name: pt_main_thread
+PID: 18717, Name: pt_main_thread, CPU: 328.9%, Memory: 456.48 MB (5.776836989078491%)
+No child processes.
+----------------------------------------
+Parent PID: 18717, Name: pt_main_thread
+PID: 18717, Name: pt_main_thread, CPU: 329.1%, Memory: 456.48 MB (5.776836989078491%)
+No child processes.
+----------------------------------------
+Parent PID: 18717, Name: pt_main_thread
+PID: 18717, Name: pt_main_thread, CPU: 329.2%, Memory: 457.51 MB (5.789887631006941%)
+No child processes.
+----------------------------------------
+Parent PID: 18717, Name: pt_main_thread
+PID: 18717, Name: pt_main_thread, CPU: 288.7%, Memory: 457.77 MB (5.793150291489053%)
+No child processes.
+----------------------------------------
+Parent PID: 18717, Name: pt_main_thread
+PID: 18717, Name: pt_main_thread, CPU: 239.3%, Memory: 457.77 MB (5.793150291489053%)
+No child processes.
+----------------------------------------
+Parent PID: 18717, Name: pt_main_thread
+PID: 18717, Name: pt_main_thread, CPU: 338.3%, Memory: 458.80 MB (5.806200933417503%)
+No child processes.
+----------------------------------------
+Parent PID: 18717, Name: pt_main_thread
+PID: 18717, Name: pt_main_thread, CPU: 348.6%, Memory: 458.80 MB (5.806200933417503%)
+No child processes.
+----------------------------------------
+Parent PID: 18717, Name: pt_main_thread
+PID: 18717, Name: pt_main_thread, CPU: 328.8%, Memory: 458.80 MB (5.806200933417503%)
+No child processes.
+----------------------------------------
+Parent PID: 18717, Name: pt_main_thread
+PID: 18717, Name: pt_main_thread, CPU: 329.4%, Memory: 458.80 MB (5.806200933417503%)
+No child processes.
+----------------------------------------
+Parent PID: 18717, Name: pt_main_thread
+PID: 18717, Name: pt_main_thread, CPU: 358.9%, Memory: 458.80 MB (5.806200933417503%)
+No child processes.
+----------------------------------------
+Parent PID: 18717, Name: pt_main_thread
+PID: 18717, Name: pt_main_thread, CPU: 99.5%, Memory: 0.00 MB (0.0%)
+No child processes.
+----------------------------------------
+No processes found with name: pt_main_thread
+No processes found with name: pt_main_thread
+No processes found with name: pt_main_thread
+No processes found with name: pt_main_thread
+No processes found with name: pt_main_thread
+No processes found with name: pt_main_thread
+No processes found with name: pt_main_thread
+No processes found with name: pt_main_thread

@@ -1,0 +1,290 @@
+(executorch) (base) taylor@ubuntu:~/Project$ python find_child_process.py 
+Parent PID: 17738, Name: executor_runner
+PID: 17738, Name: executor_runner, CPU: 89.8%, Memory: 39.14 MB (0.4952817480346178%)
+No child processes.
+----------------------------------------
+Parent PID: 17738, Name: executor_runner
+PID: 17738, Name: executor_runner, CPU: 99.6%, Memory: 39.14 MB (0.4952817480346178%)
+No child processes.
+----------------------------------------
+Parent PID: 17769, Name: executor_runner
+PID: 17769, Name: executor_runner, CPU: 99.3%, Memory: 35.43 MB (0.44841807929154787%)
+No child processes.
+----------------------------------------
+Parent PID: 17769, Name: executor_runner
+PID: 17769, Name: executor_runner, CPU: 99.6%, Memory: 35.43 MB (0.44841807929154787%)
+No child processes.
+----------------------------------------
+Parent PID: 17769, Name: executor_runner
+PID: 17769, Name: executor_runner, CPU: 99.8%, Memory: 35.43 MB (0.44841807929154787%)
+No child processes.
+----------------------------------------
+Parent PID: 17769, Name: executor_runner
+PID: 17769, Name: executor_runner, CPU: 99.7%, Memory: 35.43 MB (0.44841807929154787%)
+No child processes.
+----------------------------------------
+Parent PID: 17769, Name: executor_runner
+PID: 17769, Name: executor_runner, CPU: 99.4%, Memory: 35.43 MB (0.44841807929154787%)
+No child processes.
+----------------------------------------
+Parent PID: 17769, Name: executor_runner
+PID: 17769, Name: executor_runner, CPU: 89.6%, Memory: 35.43 MB (0.44841807929154787%)
+No child processes.
+----------------------------------------
+Parent PID: 17769, Name: executor_runner
+PID: 17769, Name: executor_runner, CPU: 99.8%, Memory: 35.43 MB (0.44841807929154787%)
+No child processes.
+----------------------------------------
+Parent PID: 17769, Name: executor_runner
+PID: 17769, Name: executor_runner, CPU: 99.5%, Memory: 35.43 MB (0.44841807929154787%)
+No child processes.
+----------------------------------------
+Parent PID: 17800, Name: executor_runner
+PID: 17800, Name: executor_runner, CPU: 99.7%, Memory: 35.41 MB (0.44812147379317396%)
+No child processes.
+----------------------------------------
+Parent PID: 17800, Name: executor_runner
+PID: 17800, Name: executor_runner, CPU: 99.8%, Memory: 39.07 MB (0.49449080003895424%)
+No child processes.
+----------------------------------------
+Parent PID: 17800, Name: executor_runner
+PID: 17800, Name: executor_runner, CPU: 99.2%, Memory: 39.07 MB (0.49449080003895424%)
+No child processes.
+----------------------------------------
+Parent PID: 17800, Name: executor_runner
+PID: 17800, Name: executor_runner, CPU: 99.8%, Memory: 39.07 MB (0.49449080003895424%)
+No child processes.
+----------------------------------------
+Parent PID: 17800, Name: executor_runner
+PID: 17800, Name: executor_runner, CPU: 99.8%, Memory: 39.07 MB (0.49449080003895424%)
+No child processes.
+----------------------------------------
+Parent PID: 17800, Name: executor_runner
+PID: 17800, Name: executor_runner, CPU: 99.8%, Memory: 39.07 MB (0.49449080003895424%)
+No child processes.
+----------------------------------------
+Parent PID: 17800, Name: executor_runner
+PID: 17800, Name: executor_runner, CPU: 99.3%, Memory: 39.07 MB (0.49449080003895424%)
+No child processes.
+----------------------------------------
+Parent PID: 17826, Name: executor_runner
+PID: 17826, Name: executor_runner, CPU: 99.3%, Memory: 35.42 MB (0.448269776542361%)
+No child processes.
+----------------------------------------
+Parent PID: 17826, Name: executor_runner
+PID: 17826, Name: executor_runner, CPU: 99.4%, Memory: 35.42 MB (0.448269776542361%)
+No child processes.
+----------------------------------------
+Parent PID: 17826, Name: executor_runner
+PID: 17826, Name: executor_runner, CPU: 99.6%, Memory: 35.42 MB (0.448269776542361%)
+No child processes.
+----------------------------------------
+Parent PID: 17826, Name: executor_runner
+PID: 17826, Name: executor_runner, CPU: 99.6%, Memory: 35.42 MB (0.448269776542361%)
+No child processes.
+----------------------------------------
+Parent PID: 17826, Name: executor_runner
+PID: 17826, Name: executor_runner, CPU: 99.8%, Memory: 35.42 MB (0.448269776542361%)
+No child processes.
+----------------------------------------
+Parent PID: 17826, Name: executor_runner
+PID: 17826, Name: executor_runner, CPU: 99.5%, Memory: 35.42 MB (0.448269776542361%)
+No child processes.
+----------------------------------------
+Parent PID: 17826, Name: executor_runner
+PID: 17826, Name: executor_runner, CPU: 99.5%, Memory: 35.42 MB (0.448269776542361%)
+No child processes.
+----------------------------------------
+Parent PID: 17826, Name: executor_runner
+PID: 17826, Name: executor_runner, CPU: 99.8%, Memory: 35.42 MB (0.448269776542361%)
+No child processes.
+----------------------------------------
+Parent PID: 17847, Name: executor_runner
+PID: 17847, Name: executor_runner, CPU: 89.7%, Memory: 35.45 MB (0.44866525054019274%)
+No child processes.
+----------------------------------------
+Parent PID: 17847, Name: executor_runner
+PID: 17847, Name: executor_runner, CPU: 99.8%, Memory: 39.16 MB (0.49552891928326276%)
+No child processes.
+----------------------------------------
+Parent PID: 17847, Name: executor_runner
+PID: 17847, Name: executor_runner, CPU: 89.5%, Memory: 39.16 MB (0.49552891928326276%)
+No child processes.
+----------------------------------------
+Parent PID: 17847, Name: executor_runner
+PID: 17847, Name: executor_runner, CPU: 99.8%, Memory: 39.16 MB (0.49552891928326276%)
+No child processes.
+----------------------------------------
+Parent PID: 17847, Name: executor_runner
+PID: 17847, Name: executor_runner, CPU: 99.5%, Memory: 39.16 MB (0.49552891928326276%)
+No child processes.
+----------------------------------------
+Parent PID: 17847, Name: executor_runner
+PID: 17847, Name: executor_runner, CPU: 89.7%, Memory: 39.16 MB (0.49552891928326276%)
+No child processes.
+----------------------------------------
+Parent PID: 17847, Name: executor_runner
+PID: 17847, Name: executor_runner, CPU: 99.7%, Memory: 39.16 MB (0.49552891928326276%)
+No child processes.
+----------------------------------------
+Parent PID: 17847, Name: executor_runner
+PID: 17847, Name: executor_runner, CPU: 99.6%, Memory: 39.16 MB (0.49552891928326276%)
+No child processes.
+----------------------------------------
+Parent PID: 17902, Name: executor_runner
+PID: 17902, Name: executor_runner, CPU: 99.8%, Memory: 35.41 MB (0.44807203954344504%)
+No child processes.
+----------------------------------------
+Parent PID: 17902, Name: executor_runner
+PID: 17902, Name: executor_runner, CPU: 99.4%, Memory: 35.41 MB (0.44807203954344504%)
+No child processes.
+----------------------------------------
+Parent PID: 17902, Name: executor_runner
+PID: 17902, Name: executor_runner, CPU: 99.6%, Memory: 35.41 MB (0.44807203954344504%)
+No child processes.
+----------------------------------------
+Parent PID: 17902, Name: executor_runner
+PID: 17902, Name: executor_runner, CPU: 89.6%, Memory: 35.41 MB (0.44807203954344504%)
+No child processes.
+----------------------------------------
+Parent PID: 17902, Name: executor_runner
+PID: 17902, Name: executor_runner, CPU: 99.7%, Memory: 35.41 MB (0.44807203954344504%)
+No child processes.
+----------------------------------------
+Parent PID: 17902, Name: executor_runner
+PID: 17902, Name: executor_runner, CPU: 99.7%, Memory: 35.41 MB (0.44807203954344504%)
+No child processes.
+----------------------------------------
+Parent PID: 17902, Name: executor_runner
+PID: 17902, Name: executor_runner, CPU: 99.7%, Memory: 35.41 MB (0.44807203954344504%)
+No child processes.
+----------------------------------------
+Parent PID: 17902, Name: executor_runner
+PID: 17902, Name: executor_runner, CPU: 99.7%, Memory: 35.41 MB (0.44807203954344504%)
+No child processes.
+----------------------------------------
+Parent PID: 17960, Name: executor_runner
+PID: 17960, Name: executor_runner, CPU: 99.5%, Memory: 35.29 MB (0.4466384463013047%)
+No child processes.
+----------------------------------------
+Parent PID: 17960, Name: executor_runner
+PID: 17960, Name: executor_runner, CPU: 99.6%, Memory: 39.11 MB (0.494935708286515%)
+No child processes.
+----------------------------------------
+Parent PID: 17960, Name: executor_runner
+PID: 17960, Name: executor_runner, CPU: 99.8%, Memory: 39.11 MB (0.494935708286515%)
+No child processes.
+----------------------------------------
+Parent PID: 17960, Name: executor_runner
+PID: 17960, Name: executor_runner, CPU: 99.5%, Memory: 39.11 MB (0.494935708286515%)
+No child processes.
+----------------------------------------
+Parent PID: 17960, Name: executor_runner
+PID: 17960, Name: executor_runner, CPU: 99.8%, Memory: 39.11 MB (0.494935708286515%)
+No child processes.
+----------------------------------------
+Parent PID: 17960, Name: executor_runner
+PID: 17960, Name: executor_runner, CPU: 109.5%, Memory: 39.11 MB (0.494935708286515%)
+No child processes.
+----------------------------------------
+Parent PID: 17960, Name: executor_runner
+PID: 17960, Name: executor_runner, CPU: 99.7%, Memory: 39.11 MB (0.494935708286515%)
+No child processes.
+----------------------------------------
+Parent PID: 17960, Name: executor_runner
+PID: 17960, Name: executor_runner, CPU: 99.3%, Memory: 39.11 MB (0.494935708286515%)
+No child processes.
+----------------------------------------
+Parent PID: 17992, Name: executor_runner
+PID: 17992, Name: executor_runner, CPU: 99.8%, Memory: 35.38 MB (0.44767656554561325%)
+No child processes.
+----------------------------------------
+Parent PID: 17992, Name: executor_runner
+PID: 17992, Name: executor_runner, CPU: 99.5%, Memory: 35.38 MB (0.44767656554561325%)
+No child processes.
+----------------------------------------
+Parent PID: 17992, Name: executor_runner
+PID: 17992, Name: executor_runner, CPU: 99.8%, Memory: 35.38 MB (0.44767656554561325%)
+No child processes.
+----------------------------------------
+Parent PID: 17992, Name: executor_runner
+PID: 17992, Name: executor_runner, CPU: 89.4%, Memory: 35.38 MB (0.44767656554561325%)
+No child processes.
+----------------------------------------
+Parent PID: 17992, Name: executor_runner
+PID: 17992, Name: executor_runner, CPU: 99.3%, Memory: 35.38 MB (0.44767656554561325%)
+No child processes.
+----------------------------------------
+Parent PID: 17992, Name: executor_runner
+PID: 17992, Name: executor_runner, CPU: 99.7%, Memory: 35.38 MB (0.44767656554561325%)
+No child processes.
+----------------------------------------
+Parent PID: 17992, Name: executor_runner
+PID: 17992, Name: executor_runner, CPU: 99.5%, Memory: 35.38 MB (0.44767656554561325%)
+No child processes.
+----------------------------------------
+Parent PID: 17992, Name: executor_runner
+No child processes.
+----------------------------------------
+Parent PID: 18018, Name: executor_runner
+PID: 18018, Name: executor_runner, CPU: 99.7%, Memory: 35.32 MB (0.4470339202991365%)
+No child processes.
+----------------------------------------
+Parent PID: 18018, Name: executor_runner
+PID: 18018, Name: executor_runner, CPU: 99.5%, Memory: 35.32 MB (0.4470339202991365%)
+No child processes.
+----------------------------------------
+Parent PID: 18018, Name: executor_runner
+PID: 18018, Name: executor_runner, CPU: 99.7%, Memory: 35.32 MB (0.4470339202991365%)
+No child processes.
+----------------------------------------
+Parent PID: 18018, Name: executor_runner
+PID: 18018, Name: executor_runner, CPU: 99.6%, Memory: 35.32 MB (0.4470339202991365%)
+No child processes.
+----------------------------------------
+Parent PID: 18018, Name: executor_runner
+PID: 18018, Name: executor_runner, CPU: 99.4%, Memory: 35.32 MB (0.4470339202991365%)
+No child processes.
+----------------------------------------
+Parent PID: 18018, Name: executor_runner
+PID: 18018, Name: executor_runner, CPU: 99.7%, Memory: 35.32 MB (0.4470339202991365%)
+No child processes.
+----------------------------------------
+Parent PID: 18018, Name: executor_runner
+PID: 18018, Name: executor_runner, CPU: 99.4%, Memory: 35.32 MB (0.4470339202991365%)
+No child processes.
+----------------------------------------
+Parent PID: 18039, Name: executor_runner
+PID: 18039, Name: executor_runner, CPU: 99.8%, Memory: 35.42 MB (0.448269776542361%)
+No child processes.
+----------------------------------------
+Parent PID: 18039, Name: executor_runner
+PID: 18039, Name: executor_runner, CPU: 99.4%, Memory: 39.23 MB (0.49651760427784225%)
+No child processes.
+----------------------------------------
+Parent PID: 18039, Name: executor_runner
+PID: 18039, Name: executor_runner, CPU: 99.8%, Memory: 39.23 MB (0.49651760427784225%)
+No child processes.
+----------------------------------------
+Parent PID: 18039, Name: executor_runner
+PID: 18039, Name: executor_runner, CPU: 99.7%, Memory: 39.23 MB (0.49651760427784225%)
+No child processes.
+----------------------------------------
+Parent PID: 18039, Name: executor_runner
+PID: 18039, Name: executor_runner, CPU: 99.5%, Memory: 39.23 MB (0.49651760427784225%)
+No child processes.
+----------------------------------------
+Parent PID: 18039, Name: executor_runner
+PID: 18039, Name: executor_runner, CPU: 99.6%, Memory: 39.23 MB (0.49651760427784225%)
+No child processes.
+----------------------------------------
+Parent PID: 18039, Name: executor_runner
+PID: 18039, Name: executor_runner, CPU: 99.5%, Memory: 39.23 MB (0.49651760427784225%)
+No child processes.
+----------------------------------------
+Parent PID: 18039, Name: executor_runner
+PID: 18039, Name: executor_runner, CPU: 99.8%, Memory: 39.23 MB (0.49651760427784225%)
+No child processes.
+----------------------------------------
+No processes found with name: executor_runner
+No processes found with name: executor_runner
