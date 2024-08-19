@@ -3,6 +3,7 @@ I find the process of running executorch with cpp is executor_runner(which is th
 I find the process of running orignal python model and executorch with python  is pt_main_thread(which is the process of pytorch)
 
 
+
 we can get result of cpu usage and memory usage.
 
 
