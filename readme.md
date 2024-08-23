@@ -3,16 +3,19 @@ I find the process of running executorch with cpp is executor_runner(which is th
 I find the process of running orignal python model and executorch with python  is pt_main_thread(which is the process of pytorch)
 
 
-we can get result of cpu usage and memory usage.
-| model          | process cpu usage | process memory usage | process memory percent | system cpu usage | system memory usage | system usage percent |
-| -------------- | ----------------- | -------------------- | ---------------------- | ---------------- | ------------------- | -------------------- |
-| a8w4 python    | 100.14%           | 341.63 MB            | 4.32%                  | 26.32%           | 3086.19 MB          | 44.00%               |
-| a8w4  cpp      | 99.40%            | 45.46 MB             | 0.58%                  | 25.80%           | 2969.43 MB          | 42.21%               |
-| a8w8 python    | 99.85%            | 337.18 MB            | 4.27%                  | 26.09%           | 3062.66 MB          | 43.73%               |
-| a8w8 cpp       | 98.76%            | 36.93 MB             | 0.47%                  | 25.98%           | 2962.71 MB          | 42.12%               |
-| w8only python  | 100.56%           | 333.69 MB            | 4.22%                  | 27.40%           | 3525.04 MB          | 49.53%               |
-| w8only cpp     | 99.68%            | 36.55 MB             | 0.46%                  | 25.92%           | 2961.53 MB          | 42.19%               |
-| orignal python | 297.69%           | 413.52 MB            | 5.23%                  | 99.18%           | 3165.48 MB          | 44.76%               |
+we can get result of cpu usage and memory usage.      psutil.cpu_count()=4
+
+| model          | process cpu usage | process memory usage(MB) | process memory percent | system cpu usage | system memory usage(MB) | system memory usage percent |
+| -------------- | ----------------- | ------------------------ | ---------------------- | ---------------- | ----------------------- | --------------------------- |
+| a8w4 python    | 25.20%            | 343.83                   | 4.35%                  | 26.32%           | 2166.25                 | 31.97%                      |
+| a8w4  cpp      | 25.13%            | 45.57                    | 0.58%                  | 25.60%           | 1994.89                 | 29.52%                      |
+| a8w8 python    | 25.24%            | 335.55                   | 4.25%                  | 26.18%           | 2047.07                 | 30.43%                      |
+| a8w8 cpp       | 25.05%            | 37.85                    | 0.48%                  | 25.64%           | 2026.54                 | 29.95%                      |
+| w8only python  | 25.23%            | 336.43                   | 4.26%                  | 25.75%           | 2174.38                 | 32.08%                      |
+| w8only cpp     | 24.97%            | 36.58                    | 0.46%                  | 25.76%           | 2018.61                 | 29.84%                      |
+| orignal python | 85.89%            | 445.73                   | 5.64%                  | 98.84%           | 2206.37                 | 32.23%                      |
+
+
 
 the result with python on cpu
 
@@ -23,5 +26,5 @@ the result with python on cpu
 | w8only  | 0.980928 | 0.925058 | 2.46934628935588   | 20246248          |
 | origanl | 0.9911   | 0.9646   | 4.689765601493677  | 29685120          |
 
-![the radar chart](./Radar%20chart.png)
+![the radar chart](./Radar_chart.png)
 

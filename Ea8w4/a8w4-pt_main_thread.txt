@@ -1,497 +1,201 @@
-PID: 18717, Name: pt_main_thread, CPU: 99.5%, Memory: 0.00 MB (0.0%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 22.35%, Memory: 337.36 MB (4.269256341746152%)
 No child processes.
 ----------------------------------------
-No processes found with name: pt_main_thread
-No processes found with name: pt_main_thread
-No processes found with name: pt_main_thread
-No processes found with name: pt_main_thread
-No processes found with name: pt_main_thread
-No processes found with name: pt_main_thread
-No processes found with name: pt_main_thread
-No processes found with name: pt_main_thread
-No processes found with name: pt_main_thread
-No processes found with name: pt_main_thread
-No processes found with name: pt_main_thread
-No processes found with name: pt_main_thread
-No processes found with name: pt_main_thread
-No processes found with name: pt_main_thread
-No processes found with name: pt_main_thread
-No processes found with name: pt_main_thread
-No processes found with name: pt_main_thread
-No processes found with name: pt_main_thread
-No processes found with name: pt_main_thread
-No processes found with name: pt_main_thread
-No processes found with name: pt_main_thread
-No processes found with name: pt_main_thread
-No processes found with name: pt_main_thread
-No processes found with name: pt_main_thread
-No processes found with name: pt_main_thread
-No processes found with name: pt_main_thread
-No processes found with name: pt_main_thread
-No processes found with name: pt_main_thread
-No processes found with name: pt_main_thread
-No processes found with name: pt_main_thread
-No processes found with name: pt_main_thread
-No processes found with name: pt_main_thread
-No processes found with name: pt_main_thread
-No processes found with name: pt_main_thread
-No processes found with name: pt_main_thread
-No processes found with name: pt_main_thread
-No processes found with name: pt_main_thread
-No processes found with name: pt_main_thread
-No processes found with name: pt_main_thread
-^Cprogram stop
-(executorch) (base) taylor@ubuntu:~/Project$ python find_child_process.py 
-No processes found with name: pt_main_thread
-No processes found with name: pt_main_thread
-No processes found with name: pt_main_thread
-No processes found with name: pt_main_thread
-No processes found with name: pt_main_thread
-No processes found with name: pt_main_thread
-No processes found with name: pt_main_thread
-No processes found with name: pt_main_thread
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 89.4%, Memory: 185.54 MB (2.3480279936269364%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 24.9%, Memory: 337.36 MB (4.269256341746152%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 89.8%, Memory: 324.30 MB (4.104080846749377%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 27.35%, Memory: 339.98 MB (4.302426460955902%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.6%, Memory: 324.30 MB (4.104080846749377%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 24.825%, Memory: 339.98 MB (4.302426460955902%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.6%, Memory: 324.30 MB (4.104080846749377%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 24.9%, Memory: 342.04 MB (4.3285275383668536%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.3%, Memory: 336.44 MB (4.2577224949070365%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 24.825%, Memory: 342.04 MB (4.3285275383668536%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.5%, Memory: 336.44 MB (4.2577224949070365%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 29.8%, Memory: 342.55 MB (4.335052807719592%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.4%, Memory: 339.56 MB (4.297220460440489%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 24.825%, Memory: 342.55 MB (4.335052807719592%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.8%, Memory: 339.56 MB (4.297220460440489%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 24.925%, Memory: 342.55 MB (4.335052807719592%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.4%, Memory: 340.34 MB (4.307008441886826%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 24.925%, Memory: 342.55 MB (4.335052807719592%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.4%, Memory: 340.34 MB (4.307008441886826%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 24.875%, Memory: 342.55 MB (4.335052807719592%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.6%, Memory: 341.88 MB (4.326584404779501%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 24.925%, Memory: 342.55 MB (4.335052807719592%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 79.5%, Memory: 341.88 MB (4.326584404779501%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 24.925%, Memory: 342.55 MB (4.335052807719592%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.4%, Memory: 341.88 MB (4.326584404779501%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 24.875%, Memory: 342.55 MB (4.335052807719592%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.9%, Memory: 341.88 MB (4.326584404779501%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 24.925%, Memory: 342.55 MB (4.335052807719592%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.5%, Memory: 341.88 MB (4.326584404779501%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 26.35%, Memory: 342.55 MB (4.335052807719592%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.4%, Memory: 341.88 MB (4.326584404779501%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 24.9%, Memory: 342.55 MB (4.335052807719592%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 139.3%, Memory: 341.88 MB (4.326584404779501%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 24.9%, Memory: 342.55 MB (4.335052807719592%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 89.3%, Memory: 341.88 MB (4.326584404779501%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 24.9%, Memory: 342.81 MB (4.3383154423959605%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 109.6%, Memory: 341.88 MB (4.326584404779501%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 24.875%, Memory: 342.81 MB (4.3383154423959605%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.7%, Memory: 341.88 MB (4.326584404779501%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 27.35%, Memory: 343.33 MB (4.344840711748698%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.5%, Memory: 341.88 MB (4.326584404779501%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 24.775%, Memory: 343.33 MB (4.344840711748698%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.6%, Memory: 341.88 MB (4.326584404779501%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 27.325%, Memory: 344.10 MB (4.354628615777805%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.3%, Memory: 341.88 MB (4.326584404779501%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 24.7%, Memory: 344.10 MB (4.354628615777805%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.6%, Memory: 341.88 MB (4.326584404779501%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 24.8%, Memory: 344.10 MB (4.354628615777805%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.4%, Memory: 341.88 MB (4.326584404779501%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 27.35%, Memory: 344.10 MB (4.354628615777805%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.7%, Memory: 341.88 MB (4.326584404779501%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 24.875%, Memory: 344.10 MB (4.354628615777805%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.3%, Memory: 341.88 MB (4.326584404779501%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 24.9%, Memory: 344.62 MB (4.361153885130543%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.6%, Memory: 342.66 MB (4.336372386225838%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 24.825%, Memory: 344.62 MB (4.361153885130543%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.6%, Memory: 342.66 MB (4.336372386225838%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 24.95%, Memory: 344.62 MB (4.361153885130543%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.6%, Memory: 342.66 MB (4.336372386225838%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 24.925%, Memory: 344.62 MB (4.361153885130543%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.4%, Memory: 342.66 MB (4.336372386225838%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 24.875%, Memory: 344.62 MB (4.361153885130543%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.4%, Memory: 343.43 MB (4.346160367672176%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 24.875%, Memory: 344.62 MB (4.361153885130543%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 109.5%, Memory: 343.43 MB (4.346160367672176%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 24.875%, Memory: 344.62 MB (4.361153885130543%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.3%, Memory: 343.43 MB (4.346160367672176%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 24.9%, Memory: 345.39 MB (4.370941789159649%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.4%, Memory: 343.43 MB (4.346160367672176%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 24.9%, Memory: 345.39 MB (4.370941789159649%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.5%, Memory: 343.43 MB (4.346160367672176%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 24.875%, Memory: 345.65 MB (4.374204423836018%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.5%, Memory: 344.20 MB (4.355948349118513%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 24.9%, Memory: 345.65 MB (4.374204423836018%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.4%, Memory: 344.20 MB (4.355948349118513%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 24.9%, Memory: 345.65 MB (4.374204423836018%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.5%, Memory: 344.98 MB (4.36573633056485%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 24.825%, Memory: 345.65 MB (4.374204423836018%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.5%, Memory: 344.98 MB (4.36573633056485%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 24.925%, Memory: 345.65 MB (4.374204423836018%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.7%, Memory: 344.98 MB (4.36573633056485%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 24.85%, Memory: 345.91 MB (4.377467058512387%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.4%, Memory: 344.98 MB (4.36573633056485%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 27.175%, Memory: 345.91 MB (4.377467058512387%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.4%, Memory: 344.98 MB (4.36573633056485%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 24.875%, Memory: 346.42 MB (4.3839923278651245%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.4%, Memory: 344.98 MB (4.36573633056485%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 24.875%, Memory: 346.42 MB (4.3839923278651245%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.3%, Memory: 344.98 MB (4.36573633056485%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 24.925%, Memory: 346.42 MB (4.3839923278651245%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.4%, Memory: 345.49 MB (4.372261651529075%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 24.85%, Memory: 346.42 MB (4.3839923278651245%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.5%, Memory: 345.49 MB (4.372261651529075%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 24.825%, Memory: 346.42 MB (4.3839923278651245%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 119.3%, Memory: 345.75 MB (4.375524312011188%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 24.85%, Memory: 346.94 MB (4.390517597217863%)
 No child processes.
 ----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.6%, Memory: 345.75 MB (4.375524312011188%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.3%, Memory: 345.75 MB (4.375524312011188%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.7%, Memory: 345.75 MB (4.375524312011188%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.8%, Memory: 345.75 MB (4.375524312011188%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.4%, Memory: 346.52 MB (4.385312293457525%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.4%, Memory: 346.52 MB (4.385312293457525%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.6%, Memory: 346.52 MB (4.385312293457525%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.6%, Memory: 346.52 MB (4.385312293457525%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.5%, Memory: 347.30 MB (4.395100274903863%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.7%, Memory: 347.30 MB (4.395100274903863%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.4%, Memory: 347.30 MB (4.395100274903863%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.4%, Memory: 347.30 MB (4.395100274903863%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 109.7%, Memory: 348.07 MB (4.4048882563502%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.4%, Memory: 348.07 MB (4.4048882563502%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 89.8%, Memory: 348.07 MB (4.4048882563502%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.7%, Memory: 348.07 MB (4.4048882563502%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.7%, Memory: 348.07 MB (4.4048882563502%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.4%, Memory: 348.84 MB (4.414676237796537%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.4%, Memory: 348.84 MB (4.414676237796537%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.7%, Memory: 348.84 MB (4.414676237796537%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.8%, Memory: 348.84 MB (4.414676237796537%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.6%, Memory: 348.84 MB (4.414676237796537%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.6%, Memory: 348.84 MB (4.414676237796537%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.5%, Memory: 348.84 MB (4.414676237796537%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.6%, Memory: 349.62 MB (4.424464219242875%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.6%, Memory: 349.62 MB (4.424464219242875%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.6%, Memory: 349.88 MB (4.427726879724987%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.6%, Memory: 349.88 MB (4.427726879724987%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.2%, Memory: 349.88 MB (4.427726879724987%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.3%, Memory: 349.88 MB (4.427726879724987%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.8%, Memory: 350.39 MB (4.434252200689212%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.5%, Memory: 350.39 MB (4.434252200689212%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.4%, Memory: 350.39 MB (4.434252200689212%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.7%, Memory: 350.39 MB (4.434252200689212%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.4%, Memory: 350.39 MB (4.434252200689212%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.3%, Memory: 350.39 MB (4.434252200689212%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.7%, Memory: 350.39 MB (4.434252200689212%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 109.6%, Memory: 350.39 MB (4.434252200689212%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.6%, Memory: 350.39 MB (4.434252200689212%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.8%, Memory: 351.16 MB (4.4440401821355495%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.7%, Memory: 351.16 MB (4.4440401821355495%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.6%, Memory: 351.16 MB (4.4440401821355495%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.3%, Memory: 351.16 MB (4.4440401821355495%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.5%, Memory: 351.16 MB (4.4440401821355495%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.5%, Memory: 351.16 MB (4.4440401821355495%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.4%, Memory: 351.16 MB (4.4440401821355495%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.8%, Memory: 351.16 MB (4.4440401821355495%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.8%, Memory: 351.16 MB (4.4440401821355495%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.5%, Memory: 351.16 MB (4.4440401821355495%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.6%, Memory: 351.16 MB (4.4440401821355495%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.6%, Memory: 351.16 MB (4.4440401821355495%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.2%, Memory: 351.16 MB (4.4440401821355495%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.3%, Memory: 351.94 MB (4.453828163581887%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.6%, Memory: 351.94 MB (4.453828163581887%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.5%, Memory: 351.94 MB (4.453828163581887%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.5%, Memory: 351.94 MB (4.453828163581887%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.3%, Memory: 351.94 MB (4.453828163581887%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.3%, Memory: 351.94 MB (4.453828163581887%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.5%, Memory: 351.94 MB (4.453828163581887%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 109.3%, Memory: 351.94 MB (4.453828163581887%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 119.6%, Memory: 352.71 MB (4.463616145028224%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.6%, Memory: 352.71 MB (4.463616145028224%)
-No child processes.
-----------------------------------------
-Parent PID: 19581, Name: pt_main_thread
-PID: 19581, Name: pt_main_thread, CPU: 99.7%, Memory: 352.71 MB (4.463616145028224%)
+Parent PID: 4310, Name: pt_main_thread
+PID: 4310, Name: pt_main_thread, CPU: 24.875%, Memory: 346.94 MB (4.390517597217863%)
 No child processes.
 ----------------------------------------
 ^Cprogram stop
