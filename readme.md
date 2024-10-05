@@ -2,7 +2,8 @@ after run the 3 kinds of quantized pte model and the orignal pth model
 I find the process of running executorch with cpp is executor_runner(which is the executable file we create)
 I find the process of running orignal python model and executorch with python  is pt_main_thread(which is the process of pytorch)
 
-https://ndusbpos-my.sharepoint.com/:f:/g/personal/zhanglong_yang_ndus_edu/Eqv7qdKyYJlGqEp6PKeGEFwBL703sGvofKU8KatEZa1shg?e=g2IWPk
+
+https://drive.google.com/file/d/16qTqzRGv-g5BUJ3-SFlww-sge7vXe7bo/view?usp=sharing
 
 
 we can get result of cpu usage and memory usage.      psutil.cpu_count()=4
