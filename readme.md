@@ -2,10 +2,12 @@ after run the 3 kinds of quantized pte model and the orignal pth model
 I find the process of running executorch with cpp is executor_runner(which is the executable file we create)
 I find the process of running orignal python model and executorch with python  is pt_main_thread(which is the process of pytorch)
 
+```
 mkdir -p ~/miniconda3
 wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-aarch64.sh -O ~/miniconda3/miniconda.sh
 bash ~/miniconda3/miniconda.sh -b -u -p ~/miniconda3
 rm ~/miniconda3/miniconda.sh
+```
 
 https://drive.google.com/file/d/16qTqzRGv-g5BUJ3-SFlww-sge7vXe7bo/view?usp=sharing
 
