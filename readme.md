@@ -9,8 +9,10 @@ bash ~/miniconda3/miniconda.sh -b -u -p ~/miniconda3
 rm ~/miniconda3/miniconda.sh
 ```
 
-https://drive.google.com/file/d/16qTqzRGv-g5BUJ3-SFlww-sge7vXe7bo/view?usp=sharing
-
+```
+pip install gdown
+gdown https://drive.google.com/uc?id=16qTqzRGv-g5BUJ3-SFlww-sge7vXe7bo
+```
 
 we can get result of cpu usage and memory usage.      psutil.cpu_count()=4
 
